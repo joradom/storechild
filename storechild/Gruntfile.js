@@ -53,11 +53,7 @@ module.exports = function( grunt ) {
 		watch: {
 			css: {
 				files: [
-					'style.scss',
-					'assets/sass/base/*.scss',
-					'assets/sass/components/*.scss',
-					'assets/sass/utils/*.scss',
-					'assets/sass/vendors/*.scss'
+					'style.scss'
 				],
 				tasks: [
 					'sass'
