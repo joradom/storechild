@@ -6,3 +6,7 @@
 # Grunt
 /node_modules/
 npm-debug.log
+
+# StoreChild
+/storechild 
+storechild.zip

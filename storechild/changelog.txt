@@ -1,4 +1,0 @@
-*** Storechild Changelog ***
-
-20XX.XX.XX - version 1.0.0
- * Initial release.
